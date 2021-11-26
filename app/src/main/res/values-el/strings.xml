@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hoteloogle</string>
+    <string name="no_internet">Internet no esta conectado</string>
+</resources>
